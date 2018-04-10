@@ -15,6 +15,6 @@ O(n): [基数排序](http://bubkoo.com/2014/01/15/sort-algorithm/radix-sort/)，
 
 冒泡排序：最好O(n),最坏O(n^2)
 
-
+[排序算法的选择](http://wiki.jikexueyuan.com/project/data-structure-sorting/comparison-and-selection.html)
 
 ![sort](./sort.jpg)
