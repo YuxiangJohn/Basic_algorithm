@@ -1,6 +1,6 @@
-# wrnch take-home programming exam
 
-**This test is the property of wrnch Inc and is intended only for the named recipient who will not copy, reproduce or disclose it or any part of it.**
+
+
 
 ## Statement of Purpose:
 A multi-dimensional convolution operation is arguably one of the most important building blocks of a convolutional neural networks, hence the name. 
